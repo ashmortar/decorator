@@ -1,0 +1,14 @@
+.column{
+  float: left;
+  width: 310px;
+  background-color: rgba(224, 239, 210, 0.8);
+  text-align: center;
+  height: 600px;
+  margin: 5px;
+}
+
+body{
+  margin-left: 10%;
+  margin-right: 10%;
+  background-image: url("../img/bg.jpeg");
+}
